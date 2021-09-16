@@ -1,8 +1,5 @@
 # Ironclad
 
-AKIA4BB5YLSBVDWQFGDC
-kRIJ9x5PPrxdf3PTUd7gYlPQ3XwDvE1XfR2Mc6rB
-
 Ironclad test monitors micro transaction data for you. This app will be tested and deployed with docker.
 
 ## Docker Quickstart
