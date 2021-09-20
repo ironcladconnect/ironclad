@@ -169,3 +169,5 @@ in ``.env``:
 ```text
 SEND_FILE_MAX_AGE_DEFAULT=31556926  # one year
 ```
+
+[![Open in Coder](https://cdn.coder.com/embed-button.svg)](http://www.codrheaven.com/wac/build?template_oauth_service=github&template_url=https://github.com/ironcladconnect/ironclad&template_ref=main&template_filepath=.coder/coder.yaml)
