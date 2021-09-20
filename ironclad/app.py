@@ -90,4 +90,4 @@ def configure_logger(app):
     if not app.logger.handlers:
         app.logger.addHandler(handler)
 
-    #kRIJ9x5PPrxdf3PTUd7gYlPQ3XwDvE1XfR2Mc6rB   
+    # Secret kRIJ9x5PPrxdf3PTUd7gYlPQ3XwDvE1XfR2Mc6rB   
