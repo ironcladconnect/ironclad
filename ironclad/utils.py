@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """Helper utilities and decorators."""
-from flask import flash
-from cryptography.hazmat.primitives.asymmetric import dsa
 from cryptography.hazmat.backends import default_backend
-
+from cryptography.hazmat.primitives.asymmetric import dsa
+from flask import flash
 
 
 def flash_errors(form, category="warning"):
