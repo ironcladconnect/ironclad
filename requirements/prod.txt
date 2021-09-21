@@ -40,6 +40,6 @@ Flask-DebugToolbar==0.11.0
 environs==9.3.3
 
 # Bad dependency
-#urllib3==1.25.9
+urllib3==1.25.9
 
 cryptography
